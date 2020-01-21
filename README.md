@@ -1,7 +1,7 @@
 <h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="#" width="700" height="700"/>
+  <img src="https://user-images.githubusercontent.com/38814709/72812504-70425880-3c83-11ea-8b36-b033c38100f9.png" width="1000" height="1300"/>
 	</p>
 </div>
 <br>
@@ -13,5 +13,4 @@
 <br>
 <h3>About App:</h3>
         <p>Recipe Application: Edamam API to search the Recipe</p>
-				<br/>
-				&nbsp;   https://edamam.com
+	&nbsp;   https://edamam.com
